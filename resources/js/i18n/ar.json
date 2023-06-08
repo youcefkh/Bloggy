@@ -1,0 +1,44 @@
+{
+    "hello": "مرحبا",
+    "main-page": "الصفحة الرئيسية",
+    "question": "سؤال ؟",
+    "search-bar-placeholder": "مثال: جواز السفر ، مجلس مدينة مونتروي ، شهادة الميلاد",
+    "published-on": "نشر يوم",
+    
+    "home": "الصفحة الرئيسية",
+    "contact": "إتصال",
+    "suggestion": "قدم اقتراح",
+    "success-message": "تم ارسال رسالتك بنجاح",
+    "error-message": "لقد حدث خطأ. يرجى المحاولة مرة أخرى",
+    "your-message": "رسالتك",
+    "send-us-message": "أرسل لنا رسالة",
+    "inputs-marked-with": "الحقول التي تم تمييزها ب",
+    "are-mandatory": "إلزامية.",
+    "your-email": "عنوان بريدك الإلكتروني (مثال: name@example.fr)",
+    "subject": "موضوع سؤالك",
+    "char-left": "الأحرف المتبقية",
+    "code": "رمز الحماية",
+    "copy-code": "انسخ رمز الحماية (المكون من أرقام وحروف)",
+    "usage-conditions": "شروط الاستعمال",
+    "accept-information": "أوافق على استخدام المعلومات التي تم إدخالها في هذا النموذج للاتصال بي والرد على طلبي إلكترونيًا.",
+    "declaration": "أقر بأنني قد قرأت",
+    "public-services": "الشروط العامة للاستخدام",
+    "website": "من Service-Public.fr.",
+    "send": "إرسال",
+
+    "faq-title": "أسئلة و أجوبة",
+    "scroll-top": "عد إلى الأعلى",
+
+    "faq-message": "أسئلة - أجوبة (تعليقات)",
+    "faq-article": "أسئلة - أجوبة (مقالات)",
+    "all-faq": "كل الأسئلة والأجوبة",
+    "last-infos": "آخر الأخبار",
+    "follow-on-twitter": "تابع الأخبار على تويتر",
+    "follow-on-fb": "انضم إلينا على فيس بوك",
+
+    "result-for": "نتائج البحث عن",
+
+    "close": "اغلاق",
+    "menu": "القائمة",
+    "loading": "تحميل ..."
+}

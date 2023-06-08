@@ -1,0 +1,1 @@
+require(["domReady","sp/cookies"],function(e,o){e(function(){o.buildTimeZoneOffsetCookie(new Date)})});

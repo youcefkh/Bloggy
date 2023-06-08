@@ -1,0 +1,44 @@
+{
+    "hello": "salut",
+    "main-page": "Page Principale",
+    "question": "Une question ?",
+    "search-bar-placeholder": "Exemple : Passeport, mairie de Montreuil, acte de naissance…",
+    "published-on": "Publié le",
+
+    "home": "Accueil",
+    "contact": "Contact",
+    "suggestion": "Faire une suggestion",
+    "success-message": "votre message a bien été envoyé",
+    "error-message": "une erreur s'est produite veuillez réessayer",
+    "your-message": "Votre message",
+    "send-us-message": "Envoyez-nous un message",
+    "inputs-marked-with": "Les champs marqués d’un",
+    "are-mandatory": "sont obligatoires.",
+    "your-email": " Votre adresse électronique (exemple :nom@exemple.fr)",
+    "subject": "Sujet de votre question",
+    "char-left": "caractères restants",
+    "code": "Code de sécurité",
+    "copy-code": "Recopier le code de sécurité (composé de chiffres et de lettres)",
+    "usage-conditions": "Conditions générales d’utilisation",
+    "accept-information": "J'accepte que les informations saisies dans ce formulaire soient utilisées pour me contacter et répondre à ma demande par voie électronique.",
+    "declaration": "Je déclare avoir pris connaissance des",
+    "public-services": "conditions générales d'utilisation",
+    "website": "de Service-Public.fr.",
+    "send": "Envoyer",
+
+    "faq-title": "Questions-Réponses",
+    "scroll-top": "Retour en haut de page",
+
+    "faq-message": "Questions - réponses (Commentaires)",
+    "faq-article": "Questions - réponses (Articles)",
+    "all-faq": "Tous les questions-reponses",
+    "last-infos": "Les dernières actualités",
+    "follow-on-twitter": "Suivre le fil twitter",
+    "follow-on-fb": "Nous rejoindre sur Facebook",
+
+    "result-for": "résultat(s) de recherche pour",
+
+    "close": "Fermer",
+    "menu": "Menu",
+    "loading": "Chargement..."
+}
